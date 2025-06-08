@@ -1,5 +1,6 @@
-(https://www.canva.com/design/DAGpsCuFMzU/GFbuRKTojE1VShH48JXu7g/edit?utm_content=DAGpsCuFMzU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-### Hi there 👋, I am Shohag Mia
+
+### Hi there 👋, I am Shohag Mia"C:\Users\Administrator\Downloads\Yellow and Blue Bold Marketing Agency with Hexagon Frame LinkedIn Banner.jpg 2.jpg")
+
 #### Full-Stack Web Developer.
 ![Full-Stack Web Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
