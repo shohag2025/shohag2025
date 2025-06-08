@@ -1,4 +1,4 @@
-  file:///C:/Users/Administrator/Downloads/Yellow%20and%20Blue%20Bold%20Marketing%20Agency%20with%20Hexagon%20Frame%20LinkedIn%20Banner.jpg%202.jpg
+file:///C:/Users/Administrator/Downloads/Screenshot_7-6-2025_234752_www.linkedin.com.jpeg
 # Hi there 👋, my name is Shohag Miah
 # Full-Stack Web Developer.
 I'm a passionate **Web Development Student** with a strong interest in building modern, user-friendly web applications. I love learning new technologies and turning ideas into reality through code.
