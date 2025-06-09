@@ -1,4 +1,4 @@
-C:\Users\Administrator\Downloads\Screenshot_9-6-2025_115939_www.linkedin.com.jpeg
+https://media.licdn.com/dms/image/v2/D4E16AQHE346Q6xvWGQ/profile-displaybackgroundimage-shrink_350_1400/B4EZdVipWaHIAY-/0/1749486836250?e=1755129600&v=beta&t=-kVGaBfBei2nJXMOO9v-vCm5BBv2u6qhzeAcvDRb8eY
 # Hi there 👋, my name is Shohag Miah
 # Full-Stack Web Developer.
 I'm a passionate **Web Development Student** with a strong interest in building modern, user-friendly web applications. I love learning new technologies and turning ideas into reality through code.
